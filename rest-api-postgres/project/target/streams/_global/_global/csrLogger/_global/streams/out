@@ -1,0 +1,6 @@
+[debug] downloaded https://repo1.maven.org/maven2/org/liquibase/liquibase-sbt_2.12_1.0/3.10.1/liquibase-sbt-3.10.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/liquibase/liquibase-sbt_2.12_1.0/3.10.1/liquibase-sbt-3.10.1.pom.sha1
+[debug] downloaded https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.liquibase/liquibase-sbt/scala_2.12/sbt_1.0/3.10.1/ivys/ivy.xml
+[debug] downloaded https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.liquibase/liquibase-sbt/scala_2.12/sbt_1.0/3.10.1/ivys/ivy.xml.sha1
+[debug] downloaded https://repo.typesafe.com/typesafe/ivy-releases/org.liquibase/liquibase-sbt/scala_2.12/sbt_1.0/3.10.1/ivys/ivy.xml
+[debug] downloaded https://repo.typesafe.com/typesafe/ivy-releases/org.liquibase/liquibase-sbt/scala_2.12/sbt_1.0/3.10.1/ivys/ivy.xml.sha1
