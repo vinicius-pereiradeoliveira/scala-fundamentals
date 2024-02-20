@@ -1,7 +1,6 @@
-# scala-curso
+# scala-course
 
 
+## Scala Udemy Course
 
-## Curso Scala Udemy
-
-Repositório com códigos referentes ao curso sobre fundamentos da linguagem Scala.
+Repository code related to my Udemy course about Scala language fundamentals.
